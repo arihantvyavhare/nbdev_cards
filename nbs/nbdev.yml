@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_cards"
+  site-url: "https://arihantvyavhare.github.io/nbdev_cards"
+  description: "nbdev workflow"
+  repo-branch: main
+  repo-url: "https://github.com/arihantvyavhare/nbdev_cards"
