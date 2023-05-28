@@ -1,2 +1,4 @@
 # nbdev_cards
-nbdev workflow
+    -nbdev workflow 
+    -github actions
+    -github pages
